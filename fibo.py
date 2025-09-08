@@ -1,3 +1,6 @@
+'''Dammy Olude 100888626'''
+
+
 def fib1(n):
     a, b = 0, 1    #define a and b as 0 and 1
     for _ in range(n):  # executing a loop for n times

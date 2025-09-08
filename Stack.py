@@ -1,3 +1,6 @@
+'''Dammy Olude 100888626'''
+
+
 class Stack:
     def __init__(self):
         self.data = []
